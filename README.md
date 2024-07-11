@@ -2,7 +2,7 @@
 
  _Fantasies have to be unrealistic because the moment, the second that you get what you seek, you don't, you can't want it anymore. In order to continue to exist, desire must have its objects perpetually absent. It's not the "it" that you want, it's the fantasy of "it". [...] What it means to be fully human is to strive to live by ideas and ideals and not to measure your life by what you've attained in terms of your desires but those small moments of integrity, compassion, rationality, even self-sacrifice. Because in the end, the only way that we can measure the significance of our own lives is by valuing the lives of others._ - David Gale, The Life of David Gale
 
-A list of projects I've worked on:
+A (non-exhaustive) list of projects I've worked on:
 
 **🚶🏻 Gait Analysis 🚶🏻**:
 - [cosmaadrian/psymo](https://github.com/cosmaadrian/psymo)
