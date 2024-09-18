@@ -15,6 +15,7 @@ A (non-exhaustive) list of projects I've worked on:
 - [cosmaadrian/time-enriched-multimodal-depression-detection](https://github.com/cosmaadrian/time-enriched-multimodal-depression-detection)
 
 **📖 Romanian Corpora 📖**
+- [cosmaadrian/romath](https://github.com/cosmaadrian/romath)
 - [cosmaadrian/rocode](https://github.com/cosmaadrian/rocode)
 
 **🔨 Home-Made Tools 🔨**
