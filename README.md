@@ -9,7 +9,7 @@ A (non-exhaustive) list of projects I've worked on:
 - [cosmaadrian/rocode](https://github.com/cosmaadrian/rocode)
 
 **💪🏼 General NLP 💪🏼**
-- [cosmaadrian/rocode](https://github.com/cosmaadrian/nli-stress-test)
+- [cosmaadrian/nli-stress-test](https://github.com/cosmaadrian/nli-stress-test)
 
 **😶‍🌫️ Psychology and Mental Health 😶‍🌫️**:
 - [cosmaadrian/multimodal-depression-from-video](https://github.com/cosmaadrian/multimodal-depression-from-video)
