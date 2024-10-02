@@ -4,22 +4,22 @@
 
 A (non-exhaustive) list of projects I've worked on:
 
-**🚶🏻 Gait Analysis 🚶🏻**:
-- [cosmaadrian/psymo](https://github.com/cosmaadrian/psymo)
-- [cosmaadrian/gaitformer](https://github.com/cosmaadrian/gaitformer)
-- [cosmaadrian/gait-vit](https://github.com/cosmaadrian/gait-vit)
-- [AndyCatruna/GaitPT](https://github.com/AndyCatruna/GaitPT)
-
-**😶‍🌫️ Psychology and Mental Health 😶‍🌫️**:
-- [cosmaadrian/multimodal-depression-from-video](https://github.com/cosmaadrian/multimodal-depression-from-video)
-- [cosmaadrian/time-enriched-multimodal-depression-detection](https://github.com/cosmaadrian/time-enriched-multimodal-depression-detection)
-
 **📖 Romanian Corpora 📖**
 - [cosmaadrian/romath](https://github.com/cosmaadrian/romath)
 - [cosmaadrian/rocode](https://github.com/cosmaadrian/rocode)
 
 **💪🏼 General NLP 💪🏼**
 - [cosmaadrian/rocode](https://github.com/cosmaadrian/nli-stress-test)
+
+**😶‍🌫️ Psychology and Mental Health 😶‍🌫️**:
+- [cosmaadrian/multimodal-depression-from-video](https://github.com/cosmaadrian/multimodal-depression-from-video)
+- [cosmaadrian/time-enriched-multimodal-depression-detection](https://github.com/cosmaadrian/time-enriched-multimodal-depression-detection)
+
+**🚶🏻 Gait Analysis 🚶🏻**:
+- [cosmaadrian/psymo](https://github.com/cosmaadrian/psymo)
+- [cosmaadrian/gaitformer](https://github.com/cosmaadrian/gaitformer)
+- [cosmaadrian/gait-vit](https://github.com/cosmaadrian/gait-vit)
+- [AndyCatruna/GaitPT](https://github.com/AndyCatruna/GaitPT)
 
 **🔨 Home-Made Tools 🔨**
 - [cosmaadrian/acumen-compressor](https://github.com/cosmaadrian/acumen-compressor)
