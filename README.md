@@ -18,6 +18,9 @@ A (non-exhaustive) list of projects I've worked on:
 - [cosmaadrian/romath](https://github.com/cosmaadrian/romath)
 - [cosmaadrian/rocode](https://github.com/cosmaadrian/rocode)
 
+**💪🏼 General NLP 💪🏼**
+- [cosmaadrian/rocode](https://github.com/cosmaadrian/nli-stress-test)
+
 **🔨 Home-Made Tools 🔨**
 - [cosmaadrian/acumen-compressor](https://github.com/cosmaadrian/acumen-compressor)
 - [cosmaadrian/acumen-indexer](https://github.com/cosmaadrian/acumen-indexer)
