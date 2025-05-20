@@ -9,6 +9,7 @@ A (non-exhaustive) list of projects I've worked on:
 - [cosmaadrian/rocode](https://github.com/cosmaadrian/rocode)
 
 **💪🏼 General NLP 💪🏼**
+- [cosmaadrian/strawberry-problem](https://github.com/cosmaadrian/strawberry-problem)
 - [cosmaadrian/nli-stress-test](https://github.com/cosmaadrian/nli-stress-test)
 
 **😶‍🌫️ Psychology and Mental Health 😶‍🌫️**:
