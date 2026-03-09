@@ -9,6 +9,7 @@ A (non-exhaustive) list of projects I've worked on:
 - [cosmaadrian/rocode](https://github.com/cosmaadrian/rocode)
 
 **💪🏼 General NLP 💪🏼**
+- [cosmaadrian/apo-feature-discovery](https://github.com/cosmaadrian/apo-feature-discovery)
 - [andrei-niculae/dr-copilot](https://github.com/andrei-niculae/dr-copilot)
 - [cosmaadrian/strawberry-problem](https://github.com/cosmaadrian/strawberry-problem)
 - [cosmaadrian/nli-stress-test](https://github.com/cosmaadrian/nli-stress-test)
