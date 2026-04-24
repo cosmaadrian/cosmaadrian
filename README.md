@@ -23,6 +23,7 @@ A (non-exhaustive) list of projects I've worked on:
 - [cosmaadrian/gaitformer](https://github.com/cosmaadrian/gaitformer)
 - [cosmaadrian/gait-vit](https://github.com/cosmaadrian/gait-vit)
 - [AndyCatruna/GaitPT](https://github.com/AndyCatruna/GaitPT)
+- [basocnicoletanina/Database-Agnostic-Gait-Enrollment](https://github.com/basocnicoletanina/Database-Agnostic-Gait-Enrollment)
 
 **🔨 Home-Made Tools 🔨**
 - [cosmaadrian/acumen-compressor](https://github.com/cosmaadrian/acumen-compressor)
